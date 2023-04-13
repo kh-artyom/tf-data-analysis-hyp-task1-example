@@ -3,7 +3,7 @@ import numpy as np
 from scipy.stats import norm
 from statsmodels.stats.proportion import proportions_ztest
 
-chat_id = 453878141 # Ваш chat ID, не меняйте название переменной
+chat_id = 341299061 # Ваш chat ID, не меняйте название переменной
 
 def solution(x_success: int, 
              x_cnt : int, 
